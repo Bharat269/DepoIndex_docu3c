@@ -3,6 +3,7 @@
 DepoIndex is an automated tool that reads a legal deposition transcript, uses AI to identify distinct topics of discussion, and generates a clean, paginated Table of Contents. This eliminates the need for manual scanning and allows legal professionals to navigate lengthy documents with ease.
 
 THE TABLE OF CONTENTS IS STORED AS TOC
+ADD YOUR API BEFORE USING
 
 ## Features
 

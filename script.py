@@ -6,7 +6,7 @@ import json
 import time
 from docx import Document
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC1At4jLRY6zTVpJ120n214pwZUPH4-E-8"  # replace this or use dotenv
+os.environ["GOOGLE_API_KEY"] = ""  # add your api key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
