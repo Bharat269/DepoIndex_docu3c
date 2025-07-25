@@ -4,6 +4,7 @@ import os
 import google.generativeai as genai
 import json
 import time
+from docx import Document
 
 os.environ["GOOGLE_API_KEY"] = "AIzaSyC1At4jLRY6zTVpJ120n214pwZUPH4-E-8"  # replace this or use dotenv
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
@@ -125,4 +126,15 @@ with open('toc.md', 'w') as f:
         line = f"{item['topic']} ··· Page {item['page_start']} · Line {item['line_start']}\n"
         f.write(line)
 print("Processing complete.")
+print("Saving Table of Contents to Word document...")
+
+document = Document()
+document.add_heading('Deposition Table of Contents', level=1)
+
+for item in topics:
+    line = f"{item['topic']} ··· Page {item['page_start']} · Line {item['line_start']}"
+    document.add_paragraph(line)
+
+document.save('toc.docx')
+print("File 'toc.docx' has been created.")
 print(topics)
