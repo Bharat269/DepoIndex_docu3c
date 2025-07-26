@@ -2,8 +2,20 @@
 
 DepoIndex is an automated tool that reads a legal deposition transcript, uses AI to identify distinct topics of discussion, and generates a clean, paginated Table of Contents. This eliminates the need for manual scanning and allows legal professionals to navigate lengthy documents with ease.
 
-THE TABLE OF CONTENTS IS STORED AS TOC
-ADD YOUR API BEFORE USING
+REPLACE WITH YOUR API KEY IN CASE API QUOTA EXHAUSTED TO PREVENT RUNTIME FAILURE, FOR BOTH VALIDATION NB and SCRIPT python file
+
+## Project files
+- **script.py**: The main engine that reads the PDF, cleans the text, calls the AI, and generates the final output files.
+
+- **toc.docx**: The final, human-readable Table of Contents, formatted as a Word document.
+
+- **topics.json:** A raw data file containing the structured output from the AI. This file is used by the validation notebook.
+
+- **validation.ipynb**: A Jupyter Notebook used to test the AI's performance and accuracy.
+
+- **requirements.txt**: A list of all the Python libraries needed to run the project.
+
+- **Dockerfile**: A configuration file to build a portable Docker container for deployment.
 
 ## Features
 

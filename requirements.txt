@@ -2,3 +2,4 @@ regex
 pypdf
 google-generativeai
 python-docx
+jupyterlab

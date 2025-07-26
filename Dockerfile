@@ -17,4 +17,4 @@ COPY . .
 
 # Define the command to run your application
 # This will execute when the container starts.
-CMD ["python", "./script.py"]
+CMD ["python", "script.py"]
