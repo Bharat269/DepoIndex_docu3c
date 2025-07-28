@@ -9,3 +9,7 @@ docx
 typing
 python-docx
 jupyterlab
+random
+os
+IPython
+IPython.display

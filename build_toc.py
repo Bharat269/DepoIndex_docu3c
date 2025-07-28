@@ -12,17 +12,6 @@ import json
 from docx import Document
 from typing import List
 
-
-
-# Create the parser
-parser = argparse.ArgumentParser(description="Example script using argparse")
-# Add arguments
-parser.add_argument("--file", type=str, help="Name of the pdf(eg example.pdf)")
-# Parse the arguments
-args = parser.parse_args()
-# Access the arguments
-path = args.file
-
 # NLTK Downloads
 nltk.download('averaged_perceptron_tagger_eng')
 nltk.download('stopwords')
@@ -162,31 +151,37 @@ def promptLLM(processed_Text:str):
     return response
 
 # STARTING FUNCTION CALLS
-inputText = processText('DepostionForPersisYu_LinkPDF.pdf')         # reduces text length by 40% per page on an avg
-response = promptLLM(inputText)
-resultJSON = json.loads(response.text)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Generate Table of Contents for a deposition PDF")
+    parser.add_argument("--file", type=str, required=True, help="Path to the input PDF file")
+    parser.add_argument("--out", type=str, required=True, help="Base name for output files (without extension)")
 
-# Save JSON
-with open("TableOfContents.json", "w") as f_json:
-    json.dump(resultJSON, f_json, indent=4)
+    args = parser.parse_args()
+    inputText = processText(args.file)
+    response = promptLLM(inputText)
+    resultJSON = json.loads(response.text)
 
-# Format for markdown and docx
-entries = []
-for topic, page, line in zip(resultJSON["topics"], resultJSON["page"], resultJSON["line"]):
-    entry = f"{topic} -------- page {page}, line {line}"
-    entries.append(entry)
+    # Save JSON
+    with open(f"{args.out}.json", "w") as f_json:
+        json.dump(resultJSON, f_json, indent=4)
 
-# Save Markdown
-with open("TableOfContents.md", "w") as f_md:
-    f_md.write("# Table of Contents\n\n")
+    # Format for markdown and docx
+    entries = [
+        f"{topic} -------- page {page}, line {line}"
+        for topic, page, line in zip(resultJSON["topics"], resultJSON["page"], resultJSON["line"])
+    ]
+
+    # Save Markdown
+    with open(f"{args.out}.md", "w") as f_md:
+        f_md.write("# Table of Contents\n\n")
+        for entry in entries:
+            f_md.write(f"- {entry}\n")
+
+    # Save Word Document
+    doc = Document()
+    doc.add_heading("Table of Contents", level=1)
     for entry in entries:
-        f_md.write(f"- {entry}\n")
+        doc.add_paragraph(entry)
+    doc.save(f"{args.out}.docx")
 
-# Save Word Document
-doc = Document()
-doc.add_heading("Table of Contents", level=1)
-for entry in entries:
-    doc.add_paragraph(entry)
-doc.save("TableOfContents.docx")
-
-print("Docx, markdown and JSON files saved in local folder.")
+    print("Done: JSON, Markdown, and DOCX files saved.")

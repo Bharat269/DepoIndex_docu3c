@@ -4,7 +4,25 @@
 
 ---
 ## CLI syntax: 
-    python script.py --file "your deposition pdf name"
+    python build_toc.py --file <file_name> --out toc
+    <file_name>  should be replaced with your files name
+    use  "DepostionForPersisYu_LinkPDF.pdf" for this git repository 
+
+## File descriptions
+
+- build_toc.py: Main script to run the CLI
+- CLI_run_screenshot.png: Screenshot of example CLI usage
+- cot_response.txt: Chain-of-thought output from Gemini
+- DepostionForPersisYu_LinkPDF.pdf: Input deposition transcript
+- Dockerfile: Containerized environment (optional)
+- manual_validation_gemini_client.ipynb: Manual validation notebook
+- README.md: This file
+- requirements.txt: Python dependencies
+- toc.docx: Generated TOC in Word format
+- toc.json: Generated TOC in JSON format
+- toc.md: Generated TOC in Markdown format
+- validation_results.json: Output of the validation notebook
+
 ## 📌 Features
 
 - Reads and processes legal PDFs page by page
@@ -29,19 +47,7 @@ git clone https://github.com/your-username/depo-index.git
 cd depo-index
 2. Install Requirements
 pip install -r requirements.txt
-<details> <summary>requirements.txt</summary>
-regex
-re
-pypdf
-nltk
-google.genai
-json
-argparse
-docx
-typing
-python-docx
-jupyterlab
-</details>
+
 3. Set Up Google Gemini
 You'll need a Gemini API key from Google AI Studio.
 
@@ -116,3 +122,16 @@ TableOfContents.docx
 - Contractual Obligations — page 2, line 15  
 - Dispute Timeline — page 3, line 8  
 - Closing Remarks — page 5, line 2
+
+✅ Validation Notebook
+File: manual_validation_gemini_client.ipynb
+
+This notebook allows manual verification of each extracted topic using one Gemini API call. It also supports:
+
+Optional chain-of-thought validation using Gemini
+
+Sampling a few topics for human-in-the-loop checks
+
+Result is saved to validation_results.json
+
+Gemini is only called once to generate reasoning behind the predictions and this is cached in cot_response.txt. You can display it later upon request.

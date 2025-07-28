@@ -1,0 +1,104 @@
+Here's a chain-of-thought reasoning for each topic based on the provided deposition transcript excerpts:
+
+---
+
+**Topic: Data Transfer Violations (Access Group to Vervent)**
+
+*   **Chain of Thought:**
+    1.  The questioning begins by establishing the witness's general knowledge regarding regulations for transferring student loan servicing data when a servicer changes.
+    2.  The witness confirms awareness of state laws, specifically citing the California State Student Loan Servicing Law, which mandates requirements for data transfer between servicers.
+    3.  The questioning then focuses on the specific case of PEAKS loans at ITT and the data transfer from the original servicer, Access Group, to the current servicer (implied to be Vervent, "my clients").
+    4.  The final question directly asks if the witness is "aware of any regulations that were violated" during this specific transfer.
+    5.  **Conclusion:** The excerpt establishes the existence of relevant regulations concerning data transfer and the direct relevance of the question to the case. However, the transcript ends before the witness provides an answer regarding whether any violations actually occurred during the Access Group to Vervent data transfer.
+
+---
+
+**Topic: Vervent's Disclosure Obligations**
+
+*   **Chain of Thought:**
+    1.  The witness clarifies that the scope of their review was limited to documents held by the defendants (Vervent), not whether the original servicer (Access Group) made the appropriate disclosures.
+    2.  The question then directly probes whether Vervent is legally required to possess the disclosures originally made by Access Group.
+    3.  The witness refers back to the California Student Loan Servicing Law, stating it "requires extensive transfer of documents."
+    4.  **Conclusion:** While the witness's answer is cut off, the implication is that under California law, there "may be a requirement" for Vervent to have received and possess the disclosures made by Access Group due to the law's mandate for extensive document transfer during a servicing change.
+
+---
+
+**Topic: Loan Servicer Functions**
+
+*   **Chain of Thought:**
+    1.  The question proposes that a primary function of a loan servicer is to "accept payment on the loans and pass those payments on to the lender."
+    2.  The witness confirms this is "certainly one of the functions" but immediately adds that servicers "serve a number of other functions as well."
+    3.  The questioning then prompts for another specific function: "keeping track of borrower addresses."
+    4.  **Conclusion:** The witness agrees, establishing that loan servicers have multiple responsibilities beyond just collecting and passing on payments, including administrative tasks like maintaining borrower information. The excerpt highlights that payment processing is a core function, but not the sole one.
+
+---
+
+**Topic: Peaks Loan Enforceability at Origination**
+
+*   **Chain of Thought:**
+    1.  The question posits that if PEAKS loans were unenforceable, it was due to a lack of "requisite disclosures" at their "outset" or "origination."
+    2.  The witness agrees with this premise, stating that if the necessary documents (evidence that a loan exists) are absent, then "there's nothing to enforce." This directly links unenforceability to issues present at the time of origination due to missing disclosures.
+    3.  The follow-up question asks if anything *after* origination rendered them unenforceable.
+    4.  **Conclusion:** The witness states there is "nothing in the record to base an opinion about activities that occurred afterwards about the enforceability," reinforcing the idea that the primary basis for potential unenforceability, based on the record reviewed, stems from issues at the loans' origination.
+
+---
+
+**Topic: Impact of Investigations on Loan Servicing**
+
+*   **Chain of Thought:**
+    1.  The witness clarifies their professional role: they are not a federal regulator or a professional investigator, but their work involves "research" and "looking at publicly available documents" to "suggest courses of action," and that "part of the work... sometimes involves investigating situations."
+    2.  The questioning then shifts to the witness's familiarity with *other* investigations into ITT and the PEAKS program.
+    3.  The witness confirms they are "familiar with" and "mentioned several investigators" in their report, and that "other people have done numerous investigations" into ITT and PEAKS.
+    4.  **Conclusion:** This topic establishes the witness's awareness of significant investigations into ITT and PEAKS, which forms part of the background for their expert analysis, even if they were not personally involved in conducting those investigations.
+
+---
+
+**Topic: Legal Obligations of Servicers During Investigations**
+
+*   **Chain of Thought:**
+    1.  The direct question asks if any law or statute *requires* a servicer to stop servicing loans simply because they are aware a school is being investigated.
+    2.  The witness explicitly states, "There is not a law that specifically states it in-- in those ways." This directly answers the core question in the negative.
+    3.  *However*, the witness immediately qualifies this by introducing related legal concepts: it *is* an "unfair and deceptive practice to demand -- to, you know, misrepresent the enforceability of a loan."
+    4.  **Conclusion:** While there's no direct law compelling a servicer to cease operations due to an investigation, there are laws governing how servicing must be conducted, particularly regarding truthfulness about loan enforceability. This implies that servicers must be careful not to misrepresent the enforceability of loans, even if they continue servicing them during an investigation.
+
+---
+
+**Topic: Deposition Exhibits and Witness List**
+
+*   **Chain of Thought:**
+    1.  The excerpt is a standard deposition index, providing a summary of the proceedings.
+    2.  It lists the witness as "PERSIS YU" and indicates that her examination began on "Page 7" and was conducted "By Mr. Purcell."
+    3.  It also lists one exhibit: "Exhibit 1," which is described as an "Expert Report" and was introduced on "Page 10."
+    4.  **Conclusion:** This topic provides a factual overview of the procedural elements of the deposition, specifically identifying the witness, the examining attorney, and the primary exhibit referenced during the testimony.
+
+---
+
+**Topic: Appearances for deposition**
+
+*   **Chain of Thought:**
+    1.  The excerpt is the "APPEARANCES" section of the deposition transcript, which formally lists the legal representatives present.
+    2.  It identifies two law firms appearing "FOR THE PLAINTIFFS":
+        *   BLOOD HURST & O'REARDON LLP, represented by attorneys Timothy G. Blood and James M. Davis.
+        *   LANGER GROGAN & DIVER, PC, represented by attorney Irv Ackelsberg.
+    3.  **Conclusion:** This topic provides a factual record of the legal representation present at the deposition, specifically identifying the attorneys and their respective firms who appeared on behalf of the plaintiffs.
+
+---
+
+**Topic: CFPB Settlement and Vervent's Fault**
+
+*   **Chain of Thought:**
+    1.  The witness is asked if anything *after* origination rendered the loans unenforceable.
+    2.  The witness refers to "findings by the Consumer Financial Protection Bureau" (CFPB) and the Department of Education. They clarify that these findings, while occurring *after* origination, *referred to events that happened during origination*.
+    3.  Crucially, the witness states that "the canceling of the loans... within the CFPB settlement" meant "they were then no longer enforceable loans."
+    4.  **Conclusion:** This excerpt links the CFPB settlement directly to the unenforceability of the loans, indicating that the settlement itself resulted in the cancellation of loans, thereby rendering them unenforceable. The excerpt does not directly assign "fault" to Vervent but establishes the CFPB settlement as a significant post-origination event that impacted loan enforceability.
+
+---
+
+**Topic: For-Profit College Industry Overview**
+
+*   **Chain of Thought:**
+    1.  The witness confirms general familiarity with the concept of "for-profit colleges in America."
+    2.  They acknowledge that there are no laws against for-profit schools or against making a profit.
+    3.  The witness clarifies that they have no "firsthand experience" with the quality of education at ITT, as they never attended the institution.
+    4.  They further specify their area of expertise as "student lending" and state that their examination of ITT focused on "the debt that students incurred," rather than the quality of education provided.
+    5.  **Conclusion:** This topic establishes the witness's general knowledge of the for-profit college sector and their specific area of expertise (student lending and debt incurred), clarifying that their analysis of ITT is from a financial/lending perspective, not an educational quality perspective.
