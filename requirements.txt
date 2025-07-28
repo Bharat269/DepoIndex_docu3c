@@ -1,5 +1,11 @@
 regex
+re
 pypdf
-google-generativeai
+nltk
+google.genai
+json
+argparse
+docx
+typing
 python-docx
 jupyterlab

@@ -1,0 +1,43 @@
+# Table of Contents
+
+- Case Title -------- page 1, line 1
+- Deposition particulars -------- page 1, line 16
+- Appearances for deposition -------- page 3, line 1
+- Deposition Exhibits and Witness List -------- page 5, line 1
+- Deposition Commencement and Introductions -------- page 6, line 4
+- Deposition Process Explanation -------- page 7, line 12
+- Expert Witness Retention and Scope -------- page 8, line 24
+- Expert Report as Exhibit -------- page 10, line 5
+- Witness Professional Background - SBPC -------- page 11, line 15
+- Interaction with Student Loan Servicers -------- page 16, line 20
+- Witness Experience with Loan Servicing -------- page 18, line 8
+- Student Loan Portfolio Transfers -------- page 19, line 15
+- Risks and Issues in Loan Portfolio Transfers -------- page 22, line 1
+- Regulations on Loan Data Transfer -------- page 23, line 7
+- Peaks Loan and ITT Institute -------- page 23, line 20
+- Data Transfer Violations (Access Group to Vervent) -------- page 23, line 23
+- Experience in Criminal Law -------- page 24, line 14
+- Knowledge about RICO Statute -------- page 25, line 8
+- Expert Report Structure -------- page 26, line 15
+- For-Profit College Industry Overview -------- page 27, line 1
+- Witness Experience with ITT Institute -------- page 27, line 13
+- Vervent's Role in ITT Misrepresentation -------- page 35, line 15
+- Enforceability of Peaks Loans -------- page 44, line 22
+- Access Group Disclosures -------- page 51, line 6
+- Vervent's Disclosure Obligations -------- page 51, line 20
+- Right to Cancel Loan Due to Disclosure Failure -------- page 56, line 12
+- Factors Affecting Loan Enforceability -------- page 60, line 6
+- CFPB Settlement and Vervent's Fault -------- page 61, line 24
+- ITT's Abusive Practices and Government Oversight -------- page 62, line 8
+- Investigations into Peaks Loan Program -------- page 66, line 22
+- SEC Investigation and Vervent's Role -------- page 68, line 24
+- CFPB Suit Against ITT (2014) -------- page 71, line 15
+- State AG Investigations into ITT -------- page 74, line 1
+- Department of Education Investigations and Vervent -------- page 75, line 9
+- Witness Role as Investigator -------- page 76, line 14
+- Impact of Investigations on Loan Servicing -------- page 77, line 19
+- Loan Servicer Functions -------- page 80, line 5
+- Legal Obligations of Servicers During Investigations -------- page 81, line 14
+- Peaks Loan Enforceability at Origination -------- page 86, line 15
+- Hypothetical Scenarios for Peaks Loans -------- page 87, line 4
+- Vervent's Servicing Practices in Investigations -------- page 88, line 2
