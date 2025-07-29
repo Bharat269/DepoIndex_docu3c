@@ -12,6 +12,7 @@
 
 - build_toc.py: Main script to run the CLI
 - CLI_run_screenshot.png: Screenshot of example CLI usage
+- manual_validation_accuracy_score.png: screenshot of manual accuracy check
 - cot_response.txt: Chain-of-thought output from Gemini
 - DepostionForPersisYu_LinkPDF.pdf: Input deposition transcript
 - Dockerfile: Containerized environment (optional)

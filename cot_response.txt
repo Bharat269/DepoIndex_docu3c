@@ -1,104 +1,117 @@
-Here's a chain-of-thought reasoning for each topic based on the provided deposition transcript excerpts:
+Here's a chain-of-thought reasoning for each topic based on the provided excerpts:
 
 ---
 
-**Topic: Data Transfer Violations (Access Group to Vervent)**
+**Topic: Loan Servicer Portfolio Transfers**
 
 *   **Chain of Thought:**
-    1.  The questioning begins by establishing the witness's general knowledge regarding regulations for transferring student loan servicing data when a servicer changes.
-    2.  The witness confirms awareness of state laws, specifically citing the California State Student Loan Servicing Law, which mandates requirements for data transfer between servicers.
-    3.  The questioning then focuses on the specific case of PEAKS loans at ITT and the data transfer from the original servicer, Access Group, to the current servicer (implied to be Vervent, "my clients").
-    4.  The final question directly asks if the witness is "aware of any regulations that were violated" during this specific transfer.
-    5.  **Conclusion:** The excerpt establishes the existence of relevant regulations concerning data transfer and the direct relevance of the question to the case. However, the transcript ends before the witness provides an answer regarding whether any violations actually occurred during the Access Group to Vervent data transfer.
+    1.  The examiner asks the witness directly if she has "ever dealt with a situation where one loan servicer takes over a student loan portfolio from another loan servicer" (Q15-18).
+    2.  The witness confirms this is a common occurrence, stating, "Yes, that -- that is a frequent occurrence" (A19).
+    3.  When asked about the frequency of such events, the witness estimates it has happened "about a dozen times" in the federal student loan context (A22-24).
+    4.  She provides a recent example, mentioning that "a number of federal student loan servicers leave. Navient..." (A24-25).
+*   **Conclusion:** The witness has direct and frequent experience with loan servicer portfolio transfers, specifically in the federal student loan context, estimating about a dozen occurrences, and citing recent events like Navient leaving the servicing market.
 
 ---
 
-**Topic: Vervent's Disclosure Obligations**
+**Topic: Knowledge about RICO Statute**
 
 *   **Chain of Thought:**
-    1.  The witness clarifies that the scope of their review was limited to documents held by the defendants (Vervent), not whether the original servicer (Access Group) made the appropriate disclosures.
-    2.  The question then directly probes whether Vervent is legally required to possess the disclosures originally made by Access Group.
-    3.  The witness refers back to the California Student Loan Servicing Law, stating it "requires extensive transfer of documents."
-    4.  **Conclusion:** While the witness's answer is cut off, the implication is that under California law, there "may be a requirement" for Vervent to have received and possess the disclosures made by Access Group due to the law's mandate for extensive document transfer during a servicing change.
+    1.  The examiner asks about the witness's "familiarity" with the RICO statute (Q8-9).
+    2.  The witness states she is "generally aware of the RICO statute" (A10-11).
+    3.  When asked if she has "ever had a job where you helped determine whether a RICO enterprise existed," she clarifies that in her work as a consumer attorney, she has "been in a position to consider or to work with others who have considered whether or not a RICO violation has occurred" (A12-17).
+    4.  She confirms that these instances were in the context of "student loan related cases," which is her "primary area of expertise" (A18-22).
+    5.  She quantifies this experience as "A small handful of times. Less than half a dozen" (A23-25).
+*   **Conclusion:** The witness is generally aware of the RICO statute and has, in her capacity as a consumer attorney specializing in student loans, considered or worked with others who considered RICO violations in "less than half a dozen" student loan related cases.
 
 ---
 
-**Topic: Loan Servicer Functions**
+**Topic: Experience in Criminal Law**
 
 *   **Chain of Thought:**
-    1.  The question proposes that a primary function of a loan servicer is to "accept payment on the loans and pass those payments on to the lender."
-    2.  The witness confirms this is "certainly one of the functions" but immediately adds that servicers "serve a number of other functions as well."
-    3.  The questioning then prompts for another specific function: "keeping track of borrower addresses."
-    4.  **Conclusion:** The witness agrees, establishing that loan servicers have multiple responsibilities beyond just collecting and passing on payments, including administrative tasks like maintaining borrower information. The excerpt highlights that payment processing is a core function, but not the sole one.
+    1.  The examiner asks if the witness has "ever had a job related to criminal law" (Q14-15).
+    2.  The witness confirms, stating, "Yes. I was an intern at the District Attorney's Office in 2002" (A16-17).
+    3.  When asked if this was the extent of her experience, she adds that "tangentially, I have had some experience working with survivors of domestic violence" (A18-21).
+    4.  She further mentions that she "volunteered at a teen court when I was an attorney in Rochester" (A22-25).
+*   **Conclusion:** The witness's experience in criminal law includes an internship at the District Attorney's Office in 2002, tangential experience working with survivors of domestic violence, and volunteering at a teen court.
 
 ---
 
-**Topic: Peaks Loan Enforceability at Origination**
+**Topic: Expert Report Structure and Content**
 
 *   **Chain of Thought:**
-    1.  The question posits that if PEAKS loans were unenforceable, it was due to a lack of "requisite disclosures" at their "outset" or "origination."
-    2.  The witness agrees with this premise, stating that if the necessary documents (evidence that a loan exists) are absent, then "there's nothing to enforce." This directly links unenforceability to issues present at the time of origination due to missing disclosures.
-    3.  The follow-up question asks if anything *after* origination rendered them unenforceable.
-    4.  **Conclusion:** The witness states there is "nothing in the record to base an opinion about activities that occurred afterwards about the enforceability," reinforcing the idea that the primary basis for potential unenforceability, based on the record reviewed, stems from issues at the loans' origination.
+    1.  The examiner asks if the witness's expert report made any findings about whether there was a RICO enterprise (Q6-8).
+    2.  The witness states she "was not asked to provide a legal opinion as to whether or not there was a RICO enterprise" and that it was "outside the scope of my report," indicating no such findings were made (A9-14).
+    3.  The examiner then points out a formatting inconsistency in the report: the absence of paragraph numbers after paragraph 8 (Q15-18).
+    4.  The witness clarifies that this "was not a conscious decision" (A19).
+    5.  The examiner probes if there was any significance to this, suggesting a structural difference, but the witness confirms it was simply an unintentional formatting issue, stating, "That just is what it is" (A20-25).
+*   **Conclusion:** The witness's expert report did not include findings on whether a RICO enterprise existed because it was outside the scope of her requested opinion. Additionally, the lack of paragraph numbers after paragraph 8 in her report was an unintentional formatting issue, not a conscious structural decision.
 
 ---
 
-**Topic: Impact of Investigations on Loan Servicing**
+**Topic: ITT's Abusive Practices and Government Oversight**
 
 *   **Chain of Thought:**
-    1.  The witness clarifies their professional role: they are not a federal regulator or a professional investigator, but their work involves "research" and "looking at publicly available documents" to "suggest courses of action," and that "part of the work... sometimes involves investigating situations."
-    2.  The questioning then shifts to the witness's familiarity with *other* investigations into ITT and the PEAKS program.
-    3.  The witness confirms they are "familiar with" and "mentioned several investigators" in their report, and that "other people have done numerous investigations" into ITT and PEAKS.
-    4.  **Conclusion:** This topic establishes the witness's awareness of significant investigations into ITT and PEAKS, which forms part of the background for their expert analysis, even if they were not personally involved in conducting those investigations.
+    1.  The examiner refers to the witness's report, specifically page 11, line 6, which discusses "widespread abusive recruiting and financial aid practices" by ITT, referencing reports from 1999 through 2005 (Q8-14).
+    2.  The witness confirms this information is in her report (A16).
+    3.  The examiner establishes that these issues were "public" (Q17-18, A19).
+    4.  The examiner then asks if these documented issues resulted in any court order or governmental agency order preventing entities from doing business with ITT (Q19-22).
+    5.  The witness confirms that "ITT remained in business following these events," indicating that no such orders were issued or enforced to stop ITT's operations based on these specific findings (A23-24). The last line suggests the federal government even continued to provide support.
+*   **Conclusion:** The witness's report details ITT's publicly known "widespread abusive recruiting and financial aid practices" from 1999-2005. Despite these documented issues, ITT remained in business, and no court or governmental agency issued orders preventing entities from doing business with ITT.
 
 ---
 
-**Topic: Legal Obligations of Servicers During Investigations**
+**Topic: Peak Loan Enforceability and Validity**
 
 *   **Chain of Thought:**
-    1.  The direct question asks if any law or statute *requires* a servicer to stop servicing loans simply because they are aware a school is being investigated.
-    2.  The witness explicitly states, "There is not a law that specifically states it in-- in those ways." This directly answers the core question in the negative.
-    3.  *However*, the witness immediately qualifies this by introducing related legal concepts: it *is* an "unfair and deceptive practice to demand -- to, you know, misrepresent the enforceability of a loan."
-    4.  **Conclusion:** While there's no direct law compelling a servicer to cease operations due to an investigation, there are laws governing how servicing must be conducted, particularly regarding truthfulness about loan enforceability. This implies that servicers must be careful not to misrepresent the enforceability of loans, even if they continue servicing them during an investigation.
+    1.  The examiner confirms that the witness has reviewed materials related to the PEAKS loans (Q13-17).
+    2.  The witness asserts her qualification to provide opinions on the materials she reviewed regarding PEAKS loans (Q18-21).
+    3.  The examiner then directly asks if the witness believes the PEAKS loans "became invalid and unenforceable" at some point (Q22-23).
+    4.  The witness's response is interrupted, but she begins by stating, "So I think that's not quite an accurate description of the legal..." (A24-25). This indicates she does not agree with the premise that the loans simply "became invalid and unenforceable" in the way the question is phrased, suggesting a more nuanced legal perspective.
+*   **Conclusion:** The witness has reviewed materials on PEAKS loans and is qualified to offer opinions on them. When asked if she believes PEAKS loans became invalid and unenforceable, her initial response indicates she views that phrasing as not "quite an accurate description of the legal" situation, suggesting a more complex legal analysis is required.
 
 ---
 
-**Topic: Deposition Exhibits and Witness List**
+**Topic: Deposition Conclusion**
 
 *   **Chain of Thought:**
-    1.  The excerpt is a standard deposition index, providing a summary of the proceedings.
-    2.  It lists the witness as "PERSIS YU" and indicates that her examination began on "Page 7" and was conducted "By Mr. Purcell."
-    3.  It also lists one exhibit: "Exhibit 1," which is described as an "Expert Report" and was introduced on "Page 10."
-    4.  **Conclusion:** This topic provides a factual overview of the procedural elements of the deposition, specifically identifying the witness, the examining attorney, and the primary exhibit referenced during the testimony.
+    1.  The examiner, Mr. Purcell, indicates that the deposition is "getting very close to the end" (L4-5).
+    2.  He then states, "That's all I've got," signifying the completion of his questioning (L6).
+    3.  The court reporter asks to go off the record, which is affirmed by Mr. Purcell (L9-10).
+    4.  The videographer formally announces going off the record at 3:42 P.M. and explicitly states that this "concludes today's testimony given by Persis Yu" (L11-13).
+    5.  The transcript formally notes the deposition concluded at 3:42 P.M. (L17).
+*   **Conclusion:** The deposition concluded at 3:42 P.M. after the examiner, Mr. Purcell, finished his questioning, and the videographer formally announced the end of Persis Yu's testimony.
 
 ---
 
-**Topic: Appearances for deposition**
+**Topic: Vervent's Involvement with ITT Misrepresentation**
 
 *   **Chain of Thought:**
-    1.  The excerpt is the "APPEARANCES" section of the deposition transcript, which formally lists the legal representatives present.
-    2.  It identifies two law firms appearing "FOR THE PLAINTIFFS":
-        *   BLOOD HURST & O'REARDON LLP, represented by attorneys Timothy G. Blood and James M. Davis.
-        *   LANGER GROGAN & DIVER, PC, represented by attorney Irv Ackelsberg.
-    3.  **Conclusion:** This topic provides a factual record of the legal representation present at the deposition, specifically identifying the attorneys and their respective firms who appeared on behalf of the plaintiffs.
+    1.  The witness first describes ITT's known practices of "misrepresenting the quality of its education, the value of its degree, the job placement rates," and "the salaries that its former students receive" (L1-4).
+    2.  The examiner then directly asks if "any of the Vervent defendants" were "involved in that practice by ITT" or "involved in making those sorts of misrepresentations" (Q14-15, Q18-21).
+    3.  The witness states, "I am not aware of the Vervent representatives making the -- those representations themselves" (A22-24).
+    4.  However, she immediately qualifies this by adding, "however, they certainly would have been aware of those representations when they were asking students to..." (A24-25), implying indirect knowledge or awareness of ITT's misrepresentations.
+*   **Conclusion:** The witness is not aware of Vervent representatives *directly* making misrepresentations about ITT's benefits to students. However, she states that Vervent representatives "certainly would have been aware" of ITT's misrepresentations when interacting with students.
 
 ---
 
-**Topic: CFPB Settlement and Vervent's Fault**
+**Topic: Experience in Student Loan Market**
 
 *   **Chain of Thought:**
-    1.  The witness is asked if anything *after* origination rendered the loans unenforceable.
-    2.  The witness refers to "findings by the Consumer Financial Protection Bureau" (CFPB) and the Department of Education. They clarify that these findings, while occurring *after* origination, *referred to events that happened during origination*.
-    3.  Crucially, the witness states that "the canceling of the loans... within the CFPB settlement" meant "they were then no longer enforceable loans."
-    4.  **Conclusion:** This excerpt links the CFPB settlement directly to the unenforceability of the loans, indicating that the settlement itself resulted in the cancellation of loans, thereby rendering them unenforceable. The excerpt does not directly assign "fault" to Vervent but establishes the CFPB settlement as a significant post-origination event that impacted loan enforceability.
+    1.  The examiner establishes that the witness has never worked *as* or *for* a loan servicer (Q4-7).
+    2.  The witness clarifies that while she didn't formally study loan servicing in her education, she gained "extensive studying of loan servicers" and learned about the student loan market through her professional expertise (Q8-13).
+    3.  She specifies that she began working in this field in 2009 as a legal aid attorney representing student loan borrowers (Q14-17).
+    4.  Her work at the National Consumer Law Center directly involved student loan servicing through "researching laws related to servicing," "reviewing contracts," and preparing RFI comments (Q18-25).
+*   **Conclusion:** The witness has never worked directly as or for a loan servicer. Her experience in the student loan market began in 2009 as a legal aid attorney. She gained extensive knowledge of loan servicers and the student loan market through her professional work, including researching servicing laws, reviewing contracts, and preparing RFI comments in her capacity at the National Consumer Law Center.
 
 ---
 
-**Topic: For-Profit College Industry Overview**
+**Topic: ITT Degree Value and Outlier Cases**
 
 *   **Chain of Thought:**
-    1.  The witness confirms general familiarity with the concept of "for-profit colleges in America."
-    2.  They acknowledge that there are no laws against for-profit schools or against making a profit.
-    3.  The witness clarifies that they have no "firsthand experience" with the quality of education at ITT, as they never attended the institution.
-    4.  They further specify their area of expertise as "student lending" and state that their examination of ITT focused on "the debt that students incurred," rather than the quality of education provided.
-    5.  **Conclusion:** This topic establishes the witness's general knowledge of the for-profit college sector and their specific area of expertise (student lending and debt incurred), clarifying that their analysis of ITT is from a financial/lending perspective, not an educational quality perspective.
+    1.  Following a recess, the examiner returns to the topic of the benefits of an ITT degree (Q23-24).
+    2.  The examiner proposes that if someone *did* get a job after attending ITT, it would be considered an "outlier" (Q25-Page 38 L2).
+    3.  The witness agrees with this assessment, stating, "I would say that that is an outlier" (A3-4).
+    4.  The examiner then asks if it's fair to say an ITT degree had "little to no value" (Q5-6).
+    5.  The witness again agrees, stating, "I would say that that is a fair statement" (A7-8).
+    6.  Finally, when asked if she knows of any ITT graduates who got jobs, the witness states, "I do not" (Q9-11).
+*   **Conclusion:** The witness believes that an ITT degree generally had "little to no value." She considers instances of ITT graduates successfully obtaining jobs to be "outliers" and states she does not personally know of any ITT graduates who secured employment.
