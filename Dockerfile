@@ -1,20 +1,28 @@
-# Use an official lightweight Python image as a parent image
+# Use official lightweight Python image
 FROM python:3.11-slim
 
-# Set the working directory in the container
+# Set working directory
 WORKDIR /app
 
-# Copy the requirements file into the container at /app
-COPY requirements.txt .
+# Install system dependencies (for pypdf, docx, etc.)
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libglib2.0-0 \
+    libsm6 \
+    libxrender1 \
+    libxext6 \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
 
-# Install any needed packages specified in requirements.txt
-# --no-cache-dir ensures the image is smaller
-RUN pip install --no-cache-dir -r requirements.txt
+# Copy project files
+COPY . /app
 
-# Copy the rest of the application code into the container at /app
-# This includes your script.py and the PDF file.
-COPY . .
+# Install Python dependencies
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Define the command to run your application
-# This will execute when the container starts.
-CMD ["python", "script.py"]
+# Optional: expose Jupyter port
+EXPOSE 8888
+
+# Default command: drop into shell
+CMD ["bash"]
