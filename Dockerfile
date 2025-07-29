@@ -1,28 +1,17 @@
-# Use official lightweight Python image
+# Use a lightweight Python image
 FROM python:3.11-slim
 
-# Set working directory
+# Set working directory inside container
 WORKDIR /app
-
-# Install system dependencies (for pypdf, docx, etc.)
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    libglib2.0-0 \
-    libsm6 \
-    libxrender1 \
-    libxext6 \
-    git \
-    curl \
-    && rm -rf /var/lib/apt/lists/*
 
 # Copy project files
 COPY . /app
 
-# Install Python dependencies
-RUN pip install --upgrade pip && pip install -r requirements.txt
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Optional: expose Jupyter port
-EXPOSE 8888
+# Set environment variable for API key (optional fallback)
+ENV GOOGLE_API_KEY=your-fallback-api-key
 
-# Default command: drop into shell
-CMD ["bash"]
+# Default command (can be overridden)
+CMD ["python", "build_toc.py", "--file", "DepostionForPersisYu_LinkPDF.pdf", "--out", "toc"]
