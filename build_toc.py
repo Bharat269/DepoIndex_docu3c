@@ -122,7 +122,8 @@ def promptLLM(processed_Text:str):
     prompt = f"""You are DepoIndex, an expert paralegal that labels *new* topics in deposition transcripts. Always reply in JSON ONLY. 
     I have provided a lemmetized text, and removed stop words. The text is a complete deposition transcript. 
     Every page begins with PAGE (page number). Each line in the transcript starts with its line number (e.g., '1', '2', ..., '25'). Use this to find the starting point of each topic.
-    Your job is to return a json in the structure following structure
+    Your job is to return a json in the structure following structure. 
+    Create topic labels that are concise and directly use words found in the text.
     [  
     {{ "topic": "<string>",  
         "page_start": <int>,  
@@ -196,6 +197,8 @@ def promptLLM(processed_Text:str):
     
     Pay attention. This is crucial. I am giving you a chunk of pages. AVOID OVERLAP OF TOPICS. A TOPIC SHOULD NOT BE LISTED TWICE FOR TWO DIFFERENT PAGES.
     Now extract topics and return ONLY the JSON output.
+    TRY TO INCLUDE WORDS FROM THE TEXT IN THE TOPIC TITLE.
+    Create topic labels that are concise and directly use words found in the text.
     {processed_Text}
     """
     client = genai.Client(api_key="") #insert api key
@@ -204,7 +207,7 @@ def promptLLM(processed_Text:str):
         response_mime_type="application/json"    #to enforce JSON return
     )
     response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
+        model="gemini-2.5-flash",
         contents=prompt,
         config=configuration
     )

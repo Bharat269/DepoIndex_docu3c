@@ -11,5 +11,6 @@ python-docx
 jupyterlab
 random
 os
+pydantic
 IPython
 IPython.display

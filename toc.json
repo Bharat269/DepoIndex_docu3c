@@ -1,13 +1,13 @@
 [
     {
-        "topic": "Case title",
+        "topic": "Court and district",
         "page_start": 1,
         "line_start": 1
     },
     {
         "topic": "Deposition particulars",
         "page_start": 1,
-        "line_start": 16
+        "line_start": 5
     },
     {
         "topic": "Appearance for deposition",
@@ -15,398 +15,288 @@
         "line_start": 1
     },
     {
-        "topic": "Videographer introduction",
-        "page_start": 6,
-        "line_start": 4
+        "topic": "Deposition index",
+        "page_start": 5,
+        "line_start": 2
     },
     {
-        "topic": "Introduction of counsel",
+        "topic": "Deposition commencement and introductions",
         "page_start": 6,
-        "line_start": 18
+        "line_start": 1
     },
     {
-        "topic": "Deposition process explanation",
+        "topic": "Explanation of deposition process",
         "page_start": 7,
-        "line_start": 15
+        "line_start": 7
     },
     {
-        "topic": "Expert witness confirmation",
+        "topic": "Witness retention as expert",
         "page_start": 8,
         "line_start": 24
     },
     {
-        "topic": "Deposition procedures and ground rules",
+        "topic": "Deposition instructions and deponent's ability to testify",
         "page_start": 8,
         "line_start": 1
     },
     {
-        "topic": "Scope of testimony and expert report",
+        "topic": "Scope of expert testimony",
         "page_start": 9,
         "line_start": 2
     },
     {
-        "topic": "Marking of exhibits and reading from documents",
+        "topic": "Expert report and speaking pace instructions",
         "page_start": 10,
-        "line_start": 3
+        "line_start": 2
     },
     {
-        "topic": "Witness's professional background and organization",
+        "topic": "Role at Student Borrower Protection Center",
         "page_start": 11,
         "line_start": 18
     },
     {
-        "topic": "Student Borrower Protection Center's policy agenda",
+        "topic": "Student Borrower Protection Center policy agenda",
         "page_start": 12,
-        "line_start": 5
+        "line_start": 3
     },
     {
-        "topic": "Advocacy for student loan debt cancellation",
-        "page_start": 12,
-        "line_start": 25
+        "topic": "Campaign to cancel student loan debt",
+        "page_start": 13,
+        "line_start": 2
     },
     {
-        "topic": "Initiatives for new student loan borrower protections",
+        "topic": "Initiatives for student loan borrower protection",
         "page_start": 13,
         "line_start": 12
     },
     {
-        "topic": "Standards for lenders and policymakers",
-        "page_start": 14,
-        "line_start": 3
-    },
-    {
-        "topic": "Negotiating rulemaking for student loan affordability",
+        "topic": "Role in student loan affordability rulemaking",
         "page_start": 15,
         "line_start": 4
     },
     {
-        "topic": "Negotiating student loan affordability rulemaking",
+        "topic": "Legislative advocacy for loan taxation",
         "page_start": 15,
+        "line_start": 23
+    },
+    {
+        "topic": "Work on borrower defense regulation",
+        "page_start": 16,
         "line_start": 5
     },
     {
-        "topic": "Work related to the CARES Act and student loan borrower protection",
+        "topic": "Work with student loan servicers",
         "page_start": 16,
-        "line_start": 7
+        "line_start": 16
     },
     {
-        "topic": "Initiatives involving direct student loan servicers",
-        "page_start": 16,
-        "line_start": 17
-    },
-    {
-        "topic": "Comments on student loan servicing proposals",
-        "page_start": 17,
-        "line_start": 3
-    },
-    {
-        "topic": "Studying loan servicers and the student loan market",
+        "topic": "Expertise in student loan market",
         "page_start": 18,
-        "line_start": 9
+        "line_start": 8
     },
     {
-        "topic": "Testimony before Congress regarding student loan servicing",
+        "topic": "Testimony before Congress",
         "page_start": 19,
         "line_start": 2
     },
     {
-        "topic": "Experience with loan servicer portfolio transfers",
+        "topic": "Loan servicer portfolio transfers",
         "page_start": 19,
         "line_start": 15
     },
     {
-        "topic": "Risks associated with student loan servicing transfers",
+        "topic": "Student loan servicing transfer risks",
         "page_start": 22,
         "line_start": 1
     },
     {
-        "topic": "ITT diploma worthlessness",
-        "page_start": 29,
+        "topic": "Student loan servicer portfolio changes",
+        "page_start": 22,
+        "line_start": 18
+    },
+    {
+        "topic": "Regulations for student loan service data transfer",
+        "page_start": 23,
+        "line_start": 7
+    },
+    {
+        "topic": "Data transfer violations (Access Group to Peak Loan/Vervent)",
+        "page_start": 23,
+        "line_start": 20
+    },
+    {
+        "topic": "Experience in criminal law",
+        "page_start": 24,
+        "line_start": 14
+    },
+    {
+        "topic": "Familiarity with RICO statute",
+        "page_start": 25,
+        "line_start": 8
+    },
+    {
+        "topic": "Experience in student loan context",
+        "page_start": 25,
+        "line_start": 18
+    },
+    {
+        "topic": "For-profit college overview",
+        "page_start": 27,
         "line_start": 2
     },
     {
-        "topic": "ITT student outcomes and statistics",
-        "page_start": 30,
-        "line_start": 1
+        "topic": "Experience in ITT institute (education quality, student debt)",
+        "page_start": 27,
+        "line_start": 13
     },
     {
-        "topic": "ITT retention and default rates",
-        "page_start": 31,
-        "line_start": 3
-    },
-    {
-        "topic": "Definition of 'outlier' experience",
-        "page_start": 32,
-        "line_start": 10
-    },
-    {
-        "topic": "Analysis of ITT student outcomes",
-        "page_start": 33,
-        "line_start": 16
-    },
-    {
-        "topic": "Misrepresentation of ITT education quality",
-        "page_start": 34,
-        "line_start": 15
-    },
-    {
-        "topic": "Vervent's involvement in ITT misrepresentation",
+        "topic": "Vervent's involvement in ITT's misrepresentation practices",
         "page_start": 35,
         "line_start": 14
     },
     {
-        "topic": "Misrepresentation regarding financing and ITT practices",
-        "page_start": 36,
-        "line_start": 9
-    },
-    {
-        "topic": "Misrepresentation in loan financing",
+        "topic": "Misrepresentation in ITT loan practices",
         "page_start": 36,
         "line_start": 1
     },
     {
-        "topic": "ITT degree value and salary correlation",
+        "topic": "Benefit of ITT degree",
         "page_start": 37,
         "line_start": 23
     },
     {
-        "topic": "Vervent's involvement with Peak Loan",
+        "topic": "Vervent defendant involvement with peak loan origination",
         "page_start": 42,
-        "line_start": 6
-    },
-    {
-        "topic": "Vervent's role in recruiting students for ITT",
-        "page_start": 43,
-        "line_start": 8
-    },
-    {
-        "topic": "Vervent's role in student recruitment and loan origination",
-        "page_start": 43,
-        "line_start": 8
-    },
-    {
-        "topic": "Peak loan enforceability and invalidity",
-        "page_start": 44,
-        "line_start": 13
-    },
-    {
-        "topic": "Legal determination of Peak loan unenforceability",
-        "page_start": 45,
-        "line_start": 8
-    },
-    {
-        "topic": "Bankruptcy ruling on Peak loan collection",
-        "page_start": 46,
-        "line_start": 12
-    },
-    {
-        "topic": "Opinion on Peak loan unenforceability due to defects",
-        "page_start": 47,
-        "line_start": 7
-    },
-    {
-        "topic": "Analysis of loan documentation defects",
-        "page_start": 48,
-        "line_start": 22
-    },
-    {
-        "topic": "Testimony regarding loan enforceability and documentation",
-        "page_start": 49,
         "line_start": 5
     },
     {
-        "topic": "Requirements for a valid loan under the Truth in Lending Act",
-        "page_start": 50,
-        "line_start": 13
+        "topic": "Vervent's role in recruiting students and Peak Loan",
+        "page_start": 43,
+        "line_start": 8
     },
     {
-        "topic": "Opinion on loan validity and enforceability",
-        "page_start": 50,
-        "line_start": 1
+        "topic": "Validity and enforceability of Peak Loan",
+        "page_start": 44,
+        "line_start": 22
     },
     {
-        "topic": "Disclosure requirements for loan servicing",
+        "topic": "Material defects in Peak Loan documentation",
         "page_start": 50,
         "line_start": 4
     },
     {
-        "topic": "California student loan servicing law",
+        "topic": "Opinion on peak loan validity and enforceability",
+        "page_start": 50,
+        "line_start": 1
+    },
+    {
+        "topic": "Review of disclosures and California student loan service law",
         "page_start": 51,
-        "line_start": 22
+        "line_start": 3
     },
     {
-        "topic": "Report on loan enforceability and compliance",
-        "page_start": 52,
-        "line_start": 6
-    },
-    {
-        "topic": "Loan unenforceability due to disclosure failures",
-        "page_start": 53,
-        "line_start": 14
-    },
-    {
-        "topic": "Vervent's knowledge of loan interest rates",
-        "page_start": 54,
-        "line_start": 11
-    },
-    {
-        "topic": "Failure to provide final loan disclosures",
-        "page_start": 55,
-        "line_start": 14
-    },
-    {
-        "topic": "Consequences of non-receipt of final loan disclosure",
+        "topic": "Consequences of disclosure failure and right to cancel loan",
         "page_start": 56,
-        "line_start": 6
+        "line_start": 12
     },
     {
-        "topic": "Loan cancellation due to disclosure failure",
-        "page_start": 56,
-        "line_start": 19
-    },
-    {
-        "topic": "Loan cancellation due to failure to provide disclosure",
+        "topic": "Right to cancel loan",
         "page_start": 57,
         "line_start": 1
     },
     {
-        "topic": "Enforceability of loan originated without proper disclosure",
-        "page_start": 58,
+        "topic": "Loan enforceability factors",
+        "page_start": 60,
         "line_start": 1
     },
     {
-        "topic": "Grace period for receiving loan disclosure",
-        "page_start": 59,
-        "line_start": 14
-    },
-    {
-        "topic": "Factors rendering a loan unenforceable",
-        "page_start": 60,
-        "line_start": 2
-    },
-    {
-        "topic": "CFPB settlement and loan enforceability",
+        "topic": "CFPB and Department of Education findings on loan enforceability",
         "page_start": 61,
-        "line_start": 13
+        "line_start": 9
     },
     {
-        "topic": "Widespread abusive recruiting and financial aid practices at ITT",
+        "topic": "ITT abusive recruiting and financial aid practices",
         "page_start": 62,
+        "line_start": 9
+    },
+    {
+        "topic": "Government loan perception and school abuse history",
+        "page_start": 64,
         "line_start": 8
     },
     {
-        "topic": "Government provision of loans to ITT students",
-        "page_start": 63,
-        "line_start": 1
-    },
-    {
-        "topic": "Government loan approval as seal of approval for educational institutions",
-        "page_start": 64,
-        "line_start": 9
-    },
-    {
-        "topic": "ITT as a criminal enterprise and government's role in providing loans",
+        "topic": "ITT abusive practices and investigations",
         "page_start": 65,
-        "line_start": 4
+        "line_start": 13
     },
     {
-        "topic": "Whistleblower suits, DOJ investigations, and closure of ITT",
-        "page_start": 65,
-        "line_start": 17
-    },
-    {
-        "topic": "Department of Education's reliance on self-reporting and accreditation agencies",
+        "topic": "Peak program investigations",
         "page_start": 66,
-        "line_start": 9
+        "line_start": 22
     },
     {
-        "topic": "Consumer Financial Protection Bureau (CFPB) civil investigative demand regarding Peak loan",
+        "topic": "CFPB civil investigative demand and complaint",
         "page_start": 67,
         "line_start": 2
     },
     {
-        "topic": "CFPB findings regarding Vervent and ITT",
-        "page_start": 67,
-        "line_start": 20
-    },
-    {
-        "topic": "CFPB findings regarding Vervent's servicing of Peak loan",
-        "page_start": 68,
-        "line_start": 4
-    },
-    {
-        "topic": "SEC investigation regarding Peak loan and Vervent's role",
+        "topic": "SEC investigation of Peak loan",
         "page_start": 69,
         "line_start": 1
     },
     {
-        "topic": "SEC's concern with payments made on behalf of borrowers by Vervent",
-        "page_start": 69,
-        "line_start": 15
-    },
-    {
-        "topic": "CFPB suit regarding high-pressure tactics and predatory loans, including Peak loan",
-        "page_start": 71,
-        "line_start": 16
-    },
-    {
-        "topic": "CFPB action against Peak Loan",
+        "topic": "CFPB suit against ITT (February 2014)",
         "page_start": 71,
         "line_start": 15
     },
     {
-        "topic": "State Attorney General investigation into fraud and deceptive marketing",
+        "topic": "SEC issues regarding Vervent conduct",
+        "page_start": 71,
+        "line_start": 9
+    },
+    {
+        "topic": "CFPB suit against ITT",
+        "page_start": 71,
+        "line_start": 15
+    },
+    {
+        "topic": "State Attorney General investigation of ITT",
         "page_start": 74,
-        "line_start": 2
+        "line_start": 1
     },
     {
-        "topic": "Department of Education findings regarding Peak Loan",
+        "topic": "U.S. Department Education findings on Vervent",
         "page_start": 75,
         "line_start": 6
     },
     {
-        "topic": "Witness's professional experience with investigations",
+        "topic": "Witness professional experience in investigations",
         "page_start": 76,
         "line_start": 14
     },
     {
-        "topic": "Investigation into loan servicing",
+        "topic": "Investigators of ITT Peaks program",
+        "page_start": 77,
+        "line_start": 20
+    },
+    {
+        "topic": "Investigation and wrongdoing",
+        "page_start": 78,
+        "line_start": 4
+    },
+    {
+        "topic": "Investigation and wrongdoing",
         "page_start": 78,
         "line_start": 1
     },
     {
-        "topic": "Vervent's role in loan servicing and collection",
-        "page_start": 79,
-        "line_start": 3
-    },
-    {
-        "topic": "Functions of a loan servicer",
+        "topic": "Loan servicer functions",
         "page_start": 80,
-        "line_start": 9
+        "line_start": 5
     },
     {
-        "topic": "Regulations regarding loan servicing and investigations",
+        "topic": "Enforceability of Peak Loans",
         "page_start": 81,
-        "line_start": 10
-    },
-    {
-        "topic": "Enforceability of Peak Loan",
-        "page_start": 82,
-        "line_start": 7
-    },
-    {
-        "topic": "Vervent's conduct related to Peak Loan settlement",
-        "page_start": 82,
-        "line_start": 20
-    },
-    {
-        "topic": "Determination of loan unenforceability",
-        "page_start": 83,
-        "line_start": 6
-    },
-    {
-        "topic": "Governmental agency determination on loan unenforceability",
-        "page_start": 85,
-        "line_start": 1
+        "line_start": 11
     }
 ]
