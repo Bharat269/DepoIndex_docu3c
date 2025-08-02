@@ -1,30 +1,84 @@
 # Table of Contents
 
-- Case Title -------- page 1, line 1
-- Deposition particulars -------- page 1, line 16
-- Appearances for deposition -------- page 3, line 1
-- Other attendees -------- page 4, line 11
-- Deposition Index/Exhibits -------- page 5, line 1
-- Deposition Commencement and Introductions -------- page 6, line 1
-- Witness Examination Protocol -------- page 7, line 10
-- Expert Witness Retention and Scope -------- page 8, line 24
-- Expert Report as Exhibit -------- page 10, line 5
-- Witness Background and Professional Role -------- page 11, line 4
-- Experience in Student Loan Market -------- page 18, line 14
-- Loan Servicer Portfolio Transfers -------- page 19, line 15
-- Regulations on Loan Servicing Data Transfer -------- page 23, line 7
-- Experience in Criminal Law -------- page 24, line 14
-- Knowledge about RICO Statute -------- page 25, line 8
-- Expertise in Student Loan Context -------- page 25, line 20
-- Expert Report Structure and Content -------- page 26, line 15
-- For-Profit College Industry Overview -------- page 27, line 2
-- Experience with ITT Institute (Loans, Student Debt, Education Value) -------- page 27, line 22
-- Vervent's Involvement with ITT Misrepresentation -------- page 35, line 22
-- ITT Degree Value and Outlier Cases -------- page 37, line 23
-- Peak Loan Program Timeline and Origination -------- page 42, line 6
-- Peak Loan Enforceability and Validity -------- page 44, line 22
-- ITT's Abusive Practices and Government Oversight -------- page 62, line 8
-- Investigations into Peak Loan Program -------- page 66, line 22
-- Role in Investigations and Findings -------- page 76, line 22
-- Deposition Conclusion -------- page 88, line 11
-- Declaration Under Penalty of Perjury -------- page 89, line 4
+- **Case title** (Page 1, Line 1)
+- **Deposition particulars** (Page 1, Line 16)
+- **Appearance for deposition** (Page 3, Line 1)
+- **Videographer introduction** (Page 6, Line 4)
+- **Introduction of counsel** (Page 6, Line 18)
+- **Deposition process explanation** (Page 7, Line 15)
+- **Expert witness confirmation** (Page 8, Line 24)
+- **Deposition procedures and ground rules** (Page 8, Line 1)
+- **Scope of testimony and expert report** (Page 9, Line 2)
+- **Marking of exhibits and reading from documents** (Page 10, Line 3)
+- **Witness's professional background and organization** (Page 11, Line 18)
+- **Student Borrower Protection Center's policy agenda** (Page 12, Line 5)
+- **Advocacy for student loan debt cancellation** (Page 12, Line 25)
+- **Initiatives for new student loan borrower protections** (Page 13, Line 12)
+- **Standards for lenders and policymakers** (Page 14, Line 3)
+- **Negotiating rulemaking for student loan affordability** (Page 15, Line 4)
+- **Negotiating student loan affordability rulemaking** (Page 15, Line 5)
+- **Work related to the CARES Act and student loan borrower protection** (Page 16, Line 7)
+- **Initiatives involving direct student loan servicers** (Page 16, Line 17)
+- **Comments on student loan servicing proposals** (Page 17, Line 3)
+- **Studying loan servicers and the student loan market** (Page 18, Line 9)
+- **Testimony before Congress regarding student loan servicing** (Page 19, Line 2)
+- **Experience with loan servicer portfolio transfers** (Page 19, Line 15)
+- **Risks associated with student loan servicing transfers** (Page 22, Line 1)
+- **ITT diploma worthlessness** (Page 29, Line 2)
+- **ITT student outcomes and statistics** (Page 30, Line 1)
+- **ITT retention and default rates** (Page 31, Line 3)
+- **Definition of 'outlier' experience** (Page 32, Line 10)
+- **Analysis of ITT student outcomes** (Page 33, Line 16)
+- **Misrepresentation of ITT education quality** (Page 34, Line 15)
+- **Vervent's involvement in ITT misrepresentation** (Page 35, Line 14)
+- **Misrepresentation regarding financing and ITT practices** (Page 36, Line 9)
+- **Misrepresentation in loan financing** (Page 36, Line 1)
+- **ITT degree value and salary correlation** (Page 37, Line 23)
+- **Vervent's involvement with Peak Loan** (Page 42, Line 6)
+- **Vervent's role in recruiting students for ITT** (Page 43, Line 8)
+- **Vervent's role in student recruitment and loan origination** (Page 43, Line 8)
+- **Peak loan enforceability and invalidity** (Page 44, Line 13)
+- **Legal determination of Peak loan unenforceability** (Page 45, Line 8)
+- **Bankruptcy ruling on Peak loan collection** (Page 46, Line 12)
+- **Opinion on Peak loan unenforceability due to defects** (Page 47, Line 7)
+- **Analysis of loan documentation defects** (Page 48, Line 22)
+- **Testimony regarding loan enforceability and documentation** (Page 49, Line 5)
+- **Requirements for a valid loan under the Truth in Lending Act** (Page 50, Line 13)
+- **Opinion on loan validity and enforceability** (Page 50, Line 1)
+- **Disclosure requirements for loan servicing** (Page 50, Line 4)
+- **California student loan servicing law** (Page 51, Line 22)
+- **Report on loan enforceability and compliance** (Page 52, Line 6)
+- **Loan unenforceability due to disclosure failures** (Page 53, Line 14)
+- **Vervent's knowledge of loan interest rates** (Page 54, Line 11)
+- **Failure to provide final loan disclosures** (Page 55, Line 14)
+- **Consequences of non-receipt of final loan disclosure** (Page 56, Line 6)
+- **Loan cancellation due to disclosure failure** (Page 56, Line 19)
+- **Loan cancellation due to failure to provide disclosure** (Page 57, Line 1)
+- **Enforceability of loan originated without proper disclosure** (Page 58, Line 1)
+- **Grace period for receiving loan disclosure** (Page 59, Line 14)
+- **Factors rendering a loan unenforceable** (Page 60, Line 2)
+- **CFPB settlement and loan enforceability** (Page 61, Line 13)
+- **Widespread abusive recruiting and financial aid practices at ITT** (Page 62, Line 8)
+- **Government provision of loans to ITT students** (Page 63, Line 1)
+- **Government loan approval as seal of approval for educational institutions** (Page 64, Line 9)
+- **ITT as a criminal enterprise and government's role in providing loans** (Page 65, Line 4)
+- **Whistleblower suits, DOJ investigations, and closure of ITT** (Page 65, Line 17)
+- **Department of Education's reliance on self-reporting and accreditation agencies** (Page 66, Line 9)
+- **Consumer Financial Protection Bureau (CFPB) civil investigative demand regarding Peak loan** (Page 67, Line 2)
+- **CFPB findings regarding Vervent and ITT** (Page 67, Line 20)
+- **CFPB findings regarding Vervent's servicing of Peak loan** (Page 68, Line 4)
+- **SEC investigation regarding Peak loan and Vervent's role** (Page 69, Line 1)
+- **SEC's concern with payments made on behalf of borrowers by Vervent** (Page 69, Line 15)
+- **CFPB suit regarding high-pressure tactics and predatory loans, including Peak loan** (Page 71, Line 16)
+- **CFPB action against Peak Loan** (Page 71, Line 15)
+- **State Attorney General investigation into fraud and deceptive marketing** (Page 74, Line 2)
+- **Department of Education findings regarding Peak Loan** (Page 75, Line 6)
+- **Witness's professional experience with investigations** (Page 76, Line 14)
+- **Investigation into loan servicing** (Page 78, Line 1)
+- **Vervent's role in loan servicing and collection** (Page 79, Line 3)
+- **Functions of a loan servicer** (Page 80, Line 9)
+- **Regulations regarding loan servicing and investigations** (Page 81, Line 10)
+- **Enforceability of Peak Loan** (Page 82, Line 7)
+- **Vervent's conduct related to Peak Loan settlement** (Page 82, Line 20)
+- **Determination of loan unenforceability** (Page 83, Line 6)
+- **Governmental agency determination on loan unenforceability** (Page 85, Line 1)
